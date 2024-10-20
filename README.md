@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Sandley509
-- 👀 I’m interested in Technologies such as React Redux AI
-- 🌱 I’m currently learning Phyton
-- 💞️ I’m looking to collaborate on amazing project in order to build an awesome portfolio
-- 📫 How to reach me i am on facebook Estalien Sandley
+'m a front-end web developer based in Wellington, Florida, with over 5 years of experience in creating responsive, user-friendly websites and applications. My expertise includes HTML, CSS, JavaScript, PHP, MySQL, and modern frameworks like React and Laravel.
 
-<!---
-Sandley509/Sandley509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Journey
+
+I started my career as a web developer with a diploma in Computer Science from EdX. Over the years,
+I've worked on various projects, from small business websites to large-scale web applications.
+My passion for coding and design drives me to constantly improve my skills and stay updated with the latest industry trends.
+Skills and Expertise
+
+HTML & CSS
+JavaScript & jQuery
+React & Redux
+PHP
+MySQL
+Responsive DesignL
+Cross-Browser Compatibility
+Version Control (Git)
+Cross-Browser Compatibility
