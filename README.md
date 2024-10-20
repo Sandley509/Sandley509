@@ -1,4 +1,4 @@
-'m a front-end web developer based in Wellington, Florida, with over 5 years of experience in creating responsive, user-friendly websites and applications. My expertise includes HTML, CSS, JavaScript, PHP, MySQL, and modern frameworks like React and Laravel.
+I'm a front-end web developer based in Wellington, Florida, with over 5 years of experience in creating responsive, user-friendly websites and applications. My expertise includes HTML, CSS, JavaScript, PHP, MySQL, and modern frameworks like React and Laravel.
 
 My Journey
 
